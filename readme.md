@@ -8,7 +8,6 @@ This Repo contains the homework for Chapter 3 of the Java 4 class at NWTC.
 **Contributers:** *Jacob Miranda, Tristan Butzine, Brian Herman*
 
 ## Instructions:
-___ 
 
 ### Set up some classes (5 Pts)
 * [ ] Create an Inventory Helper class that sorts inventory items by weight using a helper method. 
@@ -40,4 +39,4 @@ Implement a comparator and comparable call. Explain the differences in the comme
 
 ---
 
-*Thats all folks!*"# Java-4-Ch3" 
+*Thats all folks!*
